@@ -1,10 +1,1 @@
-{
-contacts: [
-		{
-			firstname:"David",
-  			lastname: "Kroell",
-  			DOB: "01-12-1996",
-  		}
-
-	]
-}
+{"contacts": [{"DOB": "01-12-1996", "lastname": "Kroell", "firstname": "David"}, {"DOB": "09-20-1982", "lastname": "Rizk", "firstname": "Ramzi"}]}
