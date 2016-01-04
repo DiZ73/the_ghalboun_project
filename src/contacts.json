@@ -3,7 +3,7 @@ contacts: [
 		{
 			firstname:"David",
   			lastname: "Kroell",
-  			DOB: "01-12-1996",
+  			DOB: "01-12-1996"
   		}
 
 	]
