@@ -1,0 +1,10 @@
+{
+contacts: [
+		{
+			firstname:"David",
+  			lastname: "Kroell",
+  			DOB: "01-12-1996",
+  		}
+
+	]
+}
