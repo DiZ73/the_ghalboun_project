@@ -37,7 +37,7 @@ class Person:
     def setDOB(self, v):
         self.DOB = v
 
-
+ # Test that the string is compiled.
     def toString(self):
         var = self.firstName + ' - ' + self.lastName + ' - ' + self.DOB
         return var
